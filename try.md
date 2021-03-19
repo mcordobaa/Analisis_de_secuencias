@@ -72,11 +72,11 @@ p
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](try_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](/unnamed-chunk-1-1.png)<!-- -->
 
 ## Including only Plots, without messages, erros or codes
 
-![](try_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](/unnamed-chunk-2-1.png)<!-- -->
 
 ##### make tables
 
